@@ -1,6 +1,6 @@
 # Java Backend RESTful API
 
-A professional Spring Boot application demonstrating RESTful API development with modern Java practices. This project showcases clean architecture, proper validation, and comprehensive CRUD operations.
+A Spring Boot application demonstrating RESTful API development with modern Java practices. This project showcases clean architecture, proper validation, and comprehensive CRUD operations.
 
 ## 🚀 Live Demo
 - API Base URL: `http://localhost:8080/api`
