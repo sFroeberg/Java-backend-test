@@ -1,0 +1,5 @@
+com\example\javabackend\model\User.class
+com\example\javabackend\JavaBackendApplication.class
+com\example\javabackend\controller\UserController.class
+com\example\javabackend\repository\UserRepository.class
+com\example\javabackend\service\UserService.class
